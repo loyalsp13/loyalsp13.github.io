@@ -1,0 +1,25 @@
+---
+title: "[U] Week 1 (Day 2)"
+date: 2021-01-19
+categories: boostcamp AI Tech
+---
+# Lecture
+Python fundamental
+
+* Variable , Function , Conditional , Loop , String
+
+Use Git
+
+* Clone , Add , Commit , Push
+
+Assingments
+
+* Practice python fundamental
+* Handle string with python
+
+# Peer Session
+
+Finish assignments and talk about it
+
+
+
